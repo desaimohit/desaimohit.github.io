@@ -1,6 +1,5 @@
 layout: post
 title: Mohit Desai
----
 <img align="left" width="190" height="190" style="float:left; padding-right:10px" src="../images/profilepic.jpeg">
 Welcome! I'm a Finance PhD Candidate at the **Kenan-Flagler Business School, UNC Chapel Hill** <br /> <br /> <br />
 I will be on the job market during the **2024-25** academic year <br /> <br /> <br />
