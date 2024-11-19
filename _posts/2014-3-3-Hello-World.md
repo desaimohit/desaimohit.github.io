@@ -8,13 +8,8 @@ Welcome! I'm a Finance PhD Candidate at the **Kenan-Flagler Business School, UNC
 I will be on the job market during the **2024-25** academic year. <br /> <br /> <br />
 __Research Interests:__ Financial Intermediation, Development Economics, Corporate Governance <br /> <br /> 
 __Contact Information:__ mohit_desai@kenan-flagler.unc. edu <br /> <br /> 
-__CV:__ [[link](https://github.com/desaimohit/desaimohit.github.io/blob/b2558c1b759fad6079aa1b0b63e26d6ae87bb7ce/images/Mohit_CV.pdf)[
-  </body>
-</html>
-" style="width:100%; height:100%;" frameborder="0"></iframe>
-  </body>
-</html>
-
+__CV:__ [[link](https://github.com/desaimohit/desaimohit.github.io/blob/b2558c1b759fad6079aa1b0b63e26d6ae87bb7ce/images/Mohit_CV.pdf)]
+  
 
 ## Working Papers
 
