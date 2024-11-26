@@ -6,7 +6,7 @@ title: Mohit Desai
 <img align="left" width="190" height="190" style="float:left; padding-right:10px" src="../images/profilepic.jpeg">
 Welcome! I'm a Finance PhD Candidate at the **Kenan-Flagler Business School, UNC Chapel Hill.** <br /> <br /> <br />
 I will be on the job market during the **2024-25** academic year. <br /> <br /> <br />
-__Research Interests:__ Financial Intermediation, Development Economics, Corporate Governance <br /> <br /> 
+__Research Interests:__ Financial Intermediation, Finance and Development, Corporate Finance <br /> <br /> 
 __Contact Information:__ mohit_desai@kenan-flagler.unc. edu <br /> <br /> 
 __CV:__ [[link](../images/Mohit_CV.pdf)]
   
