@@ -6,7 +6,7 @@ title: Mohit Desai
 <img align="left" width="190" height="190" style="float:left; padding-right:10px" src="../images/profilepic.jpeg">
 Welcome! I'm an Assistant Professor of Finance at **Binghamton University, State University of New York.** <br /> <br /> <br />
 __Research Interests:__ Financial Intermediation, Finance and Development, Corporate Finance <br /> <br /> 
-__Contact Information:__ mohit_desai@kenan-flagler.unc. edu <br /> <br /> 
+__Contact Information:__ mdesai8@binghamton.edu<br /> <br /> 
 __CV:__ [[link](../images/Mohit_CV.pdf)]
   
 
